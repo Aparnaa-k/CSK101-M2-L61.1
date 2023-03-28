@@ -1,0 +1,99 @@
+/* Type your code here */
+
+html {
+  background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.player:hover {
+  cursor: pointer;
+}
+
+div.logo {
+  margin-left: 1100px;
+}
+a {
+  font-size: 50px;
+  margin-top: 2px;
+}
+.small {
+  font-size: 25px;
+}
+table {
+  border: 1px;
+  background-color: white;
+}
+tr.head {
+  background-color: #f53817;
+}
+#sehwagimg {
+  position: absolute;
+  top: 220px;
+  left: 0px;
+  display: none;
+}
+#sachinimg {
+  position: absolute;
+  top: 250px;
+  left: 0px;
+  display: none;
+}
+#gautumimg {
+  position: absolute;
+  top: 280px;
+  left: 0px;
+  display: none;
+}
+#viratimg {
+  position: absolute;
+  top: 310px;
+  left: 0px;
+  display: none;
+}
+#dhoniimg {
+  position: absolute;
+  top: 360px;
+  left: 0px;
+  display: none;
+}
+#yuvaimg {
+  position: absolute;
+  top: 400px;
+  left: 0px;
+  display: none;
+}
+#sureshimg {
+  position: absolute;
+  top: 516px;
+  left: 316px;
+  display: none;
+}
+#harimg {
+  position: absolute;
+  top: 516px;
+  left: 420px;
+  display: none;
+}
+#zahimg {
+  position: absolute;
+  top: 516px;
+  left: 550px;
+  display: none;
+}
+#munafimg {
+  position: absolute;
+  top: 516px;
+  left: 655px;
+  display: none;
+}
+#sreeimg {
+  position: absolute;
+  top: 516px;
+  left: 750px;
+  display: none;
+}
+footer {
+  bottom: 5px;
+}
